@@ -49,7 +49,8 @@ You can revoke permissions anytime in iOS Settings.
 
 ## 6. Children's Privacy
 
-Crest is not directed to children under 13.
+Crest is intended for general audiences.
+If you are under 13, please use the app with a parent or guardian's guidance.
 
 ## 7. Your Choices
 
